@@ -1,0 +1,44 @@
+{
+  "files": {
+    "index.js": [
+      {
+        "id": "2f472df0-edaf-4a6c-bee0-a73080cc92c0",
+        "line": 48,
+        "version": 1981,
+        "index": 1190
+      },
+      {
+        "id": "2eb659ad-f572-4f35-b58b-361e0d6e53f3",
+        "line": 83,
+        "version": 1893,
+        "index": 2138
+      },
+      {
+        "id": "d39e6658-0286-4f03-b6ab-cb428234381a",
+        "line": 85,
+        "version": 1893,
+        "index": 2207
+      }
+    ],
+    "mongoose-auto-increment.js": [
+      {
+        "id": "e8d27688-1e26-424f-a469-90d7a6b0b638",
+        "line": 26,
+        "version": 1597,
+        "index": 566
+      },
+      {
+        "id": "3664b80d-15f9-4c86-b30f-1b9b7a1be56d",
+        "line": 36,
+        "version": 1597,
+        "index": 817
+      },
+      {
+        "id": "8d3955fb-0b93-4816-934d-57f9e06db481",
+        "line": 44,
+        "version": 1597,
+        "index": 988
+      }
+    ]
+  }
+}
